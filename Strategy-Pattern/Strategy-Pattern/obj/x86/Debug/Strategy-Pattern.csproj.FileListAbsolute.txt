@@ -1,0 +1,5 @@
+C:\Users\Coke\Strategy-Pattern\Strategy-Pattern\Strategy-Pattern\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Coke\Strategy-Pattern\Strategy-Pattern\Strategy-Pattern\bin\Debug\Strategy-Pattern.exe
+C:\Users\Coke\Strategy-Pattern\Strategy-Pattern\Strategy-Pattern\bin\Debug\Strategy-Pattern.pdb
+C:\Users\Coke\Strategy-Pattern\Strategy-Pattern\Strategy-Pattern\obj\x86\Debug\Strategy-Pattern.exe
+C:\Users\Coke\Strategy-Pattern\Strategy-Pattern\Strategy-Pattern\obj\x86\Debug\Strategy-Pattern.pdb
